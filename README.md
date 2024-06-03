@@ -1,10 +1,10 @@
-# parrot.live
+# NUKE in a termial
 
-An initiative, using frames from [`terminal-parrot`](https://github.com/jmhobbs/terminal-parrot), to allow any computer with `curl` to display an _animated_ party parrot.
+An initiative, using frames from [`terminal-NUKE`](https://github.com/jmhobbs/terminal-parrot), to allow any computer with `curl` to display an _animated_ party parrot.
 
 # Try it!
 ```bash
-curl parrot.live
+curl NUKE.live
 ```
 
 # :partyparrot:
